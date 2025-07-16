@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <Image
-        src="/img/amour_brut.png"
+        src="/img/logo-amourbrut.svg"
         alt="Logo AMOURBRUT"
         width={600}
         height={600}

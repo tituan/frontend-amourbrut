@@ -8,6 +8,6 @@
 
 .logo {
   max-height: 70vh;
-  width: auto;
+  width: 80vw;
   object-fit: contain;
 }
